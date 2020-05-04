@@ -1,8 +1,8 @@
 # 2DPixelRPG
 
-![](Screenshots/Screenshot from 2020-05-04 23-00-37.png)
+![](Screenshots/Screenshot1.png)
 
-![](Screenshots/Screenshot from 2020-05-04 23-00-51.png)
+![](Screenshots/Screenshot2.png)
 
 Credits:
 
