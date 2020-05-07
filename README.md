@@ -1,5 +1,4 @@
 # 2DPixelRPG 
-[currently in development]
 
 ![](Screenshots/Screenshot1.png)
 
