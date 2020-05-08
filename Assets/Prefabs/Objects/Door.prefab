@@ -7,10 +7,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1872966724535265930, guid: 31abe102eb6cb7bf7bdcb31401a5b73d,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: 0.0005001426
+      objectReference: {fileID: 0}
+    - target: {fileID: 1872966724535265930, guid: 31abe102eb6cb7bf7bdcb31401a5b73d,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.93730795
+      objectReference: {fileID: 0}
+    - target: {fileID: 1872966724535265930, guid: 31abe102eb6cb7bf7bdcb31401a5b73d,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: -0.39500704
+      objectReference: {fileID: 0}
+    - target: {fileID: 1872966724535265930, guid: 31abe102eb6cb7bf7bdcb31401a5b73d,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.30773538
+      objectReference: {fileID: 0}
     - target: {fileID: 1872966724535265942, guid: 31abe102eb6cb7bf7bdcb31401a5b73d,
         type: 3}
       propertyPath: m_Name
-      value: Portal
+      value: Door
       objectReference: {fileID: 0}
     - target: {fileID: 1872966724535265943, guid: 31abe102eb6cb7bf7bdcb31401a5b73d,
         type: 3}
