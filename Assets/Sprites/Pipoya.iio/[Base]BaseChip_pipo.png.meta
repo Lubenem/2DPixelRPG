@@ -3462,20 +3462,24 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 4192
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 4160
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5002176, y: -0.00074768066}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -2, y: -7}
-        - {x: -9, y: -10}
-        - {x: -13, y: -13}
-        - {x: -14, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: -6}
+      - - {x: 0, y: -14}
+        - {x: -3, y: -18}
+        - {x: -4, y: -24}
+        - {x: -6, y: -25}
+        - {x: -6, y: -28}
+        - {x: 0, y: -31}
+        - {x: 4, y: -30}
+        - {x: 6, y: -27}
+        - {x: 4, y: -23}
+        - {x: 4, y: -18}
       tessellationDetail: 0
       bones: []
       spriteID: dd7716c6b0cd29a00ba90236189a9ee4
@@ -3485,82 +3489,31 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '[Base]BaseChip_pipo_9'
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 4192
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape:
-      - - {x: -16, y: -16}
-        - {x: -16, y: -6}
-        - {x: -3, y: -7}
-        - {x: 8, y: -9}
-        - {x: 12, y: -12}
-        - {x: 14, y: -16}
-      tessellationDetail: 0
-      bones: []
-      spriteID: e10e1592bb31fb5b6aceb22d302fd81d
-      internalID: -3654299068792484419
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: '[Base]BaseChip_pipo_10'
       rect:
         serializedVersion: 2
         x: 64
-        y: 4192
-        width: 32
-        height: 32
+        y: 4160
+        width: 64
+        height: 64
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -14, y: -16}
-        - {x: -12, y: -12}
-        - {x: -6, y: -9}
-        - {x: 2, y: -7}
-        - {x: 16, y: -7}
-        - {x: 16, y: -16}
+      - - {x: -3, y: -30}
+        - {x: -6, y: -27}
+        - {x: -4, y: -24}
+        - {x: -3, y: -18}
+        - {x: 0, y: -14}
+        - {x: 3, y: -18}
+        - {x: 3, y: -24}
+        - {x: 6, y: -27}
+        - {x: 4, y: -30}
       tessellationDetail: 0
       bones: []
       spriteID: c39aa7773ae451a3b9dd0d7b84c33790
       internalID: -1517471938410309621
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '[Base]BaseChip_pipo_11'
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 4192
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape:
-      - - {x: -16, y: -16}
-        - {x: -16, y: -7}
-        - {x: -3, y: -8}
-        - {x: 7, y: -10}
-        - {x: 12, y: -12}
-        - {x: 14, y: -16}
-      tessellationDetail: 0
-      bones: []
-      spriteID: 31742ebaa94621b36ac591a01d0b81a9
-      internalID: 5339965462978905202
       vertices: []
       indices: 
       edges: []
@@ -3645,90 +3598,6 @@ TextureImporter:
       bones: []
       spriteID: 4b32468035421c37d807b6de51311200
       internalID: -4697231023394172263
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '[Base]BaseChip_pipo_16'
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 4160
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 629e17927e3b8e35f8c43b5e752520de
-      internalID: 1635889855507257428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '[Base]BaseChip_pipo_17'
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 4160
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 80eac9b471b5dfd5395b352242bcc3dd
-      internalID: -755115072430909024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '[Base]BaseChip_pipo_18'
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 4160
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 562de737efa1ce4cd92deab772350f04
-      internalID: 2463436930465241715
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '[Base]BaseChip_pipo_19'
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 4160
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ac4895c10587016689803c6c468b9ea
-      internalID: 8932041349645455992
       vertices: []
       indices: 
       edges: []
@@ -4165,7 +4034,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 1, y: -12}
+        - {x: -8, y: -11}
+        - {x: -13, y: -3}
+        - {x: -8, y: 3}
+        - {x: 7, y: 3}
+        - {x: 12, y: -2}
+        - {x: 10, y: -10}
       tessellationDetail: 0
       bones: []
       spriteID: 6c87f7ad69fd72a31b9913765c56b9c6
@@ -4186,7 +4062,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: -11, y: -9}
+        - {x: -13, y: -2}
+        - {x: -8, y: 3}
+        - {x: 7, y: 3}
+        - {x: 13, y: -2}
+        - {x: 11, y: -9}
       tessellationDetail: 0
       bones: []
       spriteID: 8d9930d41842cd94a90cbc2abcc29c51
@@ -4329,8 +4212,8 @@ TextureImporter:
         y: 4032
         width: 32
         height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.26958466}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
